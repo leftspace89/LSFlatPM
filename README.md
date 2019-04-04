@@ -36,9 +36,6 @@ When you build project you must copy of your assembly to %temp% path to run Plug
 example copy DLSP_PluginName.dll to %temp% path. the core will load that plugin if everything is correct. plugin name assembly name etc..
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
