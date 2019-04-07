@@ -7,6 +7,8 @@ Developers can use it for making mod (Plugin) for the game.
 
 Look at the produced examples.
 
+DOCS : https://leftspace89.github.io/LSFlatPM/api/FlatPMSDK.html
+
 ### Prerequisites
 
 Basic C# Knowledge. you must install theese Packages for buid. you can use Nuget PM For that.
