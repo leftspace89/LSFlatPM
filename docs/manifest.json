@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDK.html",
-          "hash": "Z+as4vGCHvuhPRIJ2iGH1w=="
+          "hash": "+s29fKHURG9uxuUGNbLsJQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.Entity.html",
-          "hash": "1n7TT9U19XNz2ZOtH4TceQ=="
+          "hash": "5GiptcI/ErpUnXxnsy6YqA=="
         }
       },
       "is_incremental": true,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.EntityType.html",
-          "hash": "CQijH9/cDljDF+z5UJ/eLg=="
+          "hash": "sBMyXZXDgJpUxHaj3YT1hQ=="
         }
       },
       "is_incremental": true,
@@ -137,14 +137,38 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.VMObjectd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.VMObjectd.html",
+          "hash": "Wu7NnXafDmxQQI4DJZte0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.WeaponInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.WeaponInfo.html",
+          "hash": "pyhtDCblM/WMgWd/Yfdgcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.yml",
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.html",
-          "hash": "uOIbBx4nUZ7Ia8ok9GL/QA=="
+          "hash": "vlRRxbzNUiVZqmH7v+3ysQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -245,6 +269,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.RVelocityListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.RVelocityListener.html",
+          "hash": "xp6OduDung3djTQiu5cC2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/FlatPMSDK.SerializeStatic.yml",
       "output": {
         ".html": {
@@ -261,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.html",
-          "hash": "Zt7VqaOVz8vSUtZ4j5Qx4Q=="
+          "hash": "8BSgcPECq0M4MpNbbs3Jyg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -273,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "mXKalf46Huln8StVZHwgLA=="
+          "hash": "1aGnHgRQT187ugqZluvy5Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -285,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "daa3+lQaFS27YUtNeaDL+A=="
+          "hash": "qxdG3TLYI52MLF9O6fLX0w=="
         }
       },
       "is_incremental": false,
@@ -321,10 +357,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "TW2MZbnqsfIYwXYpPdLciQ=="
+          "hash": "I24dRiRZ54P1Vq8+hxI26A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -360,13 +396,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 1
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 22,
-          "skipped_file_count": 20
+          "total_file_count": 25,
+          "skipped_file_count": 25
         }
       }
     },
