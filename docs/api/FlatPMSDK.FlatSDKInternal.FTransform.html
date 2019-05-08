@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class RVelocityListener
+    <title>Class FlatSDKInternal.FTransform
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class RVelocityListener
+    <meta name="title" content="Class FlatSDKInternal.FTransform
    ">
     <meta name="generator" content="docfx 2.41.0.0">
     
@@ -68,17 +68,17 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="FlatPMSDK.RVelocityListener">
+            <article class="content wrap" id="_content" data-uid="FlatPMSDK.FlatSDKInternal.FTransform">
   
   
-  <h1 id="FlatPMSDK_RVelocityListener" data-uid="FlatPMSDK.RVelocityListener" class="text-break">Class RVelocityListener
+  <h1 id="FlatPMSDK_FlatSDKInternal_FTransform" data-uid="FlatPMSDK.FlatSDKInternal.FTransform" class="text-break">Class FlatSDKInternal.FTransform
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">RVelocityListener</span></div>
+    <div class="level1"><span class="xref">FlatSDKInternal.FTransform</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -106,21 +106,21 @@
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="FlatPMSDK.html">FlatPMSDK</a></h6>
   <h6><strong>Assembly</strong>: FlatPMSDK.dll</h6>
-  <h5 id="FlatPMSDK_RVelocityListener_syntax">Syntax</h5>
+  <h5 id="FlatPMSDK_FlatSDKInternal_FTransform_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class RVelocityListener</code></pre>
+    <pre><code class="lang-csharp hljs">public class FTransform</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   
   
-  <a id="FlatPMSDK_RVelocityListener__ctor_" data-uid="FlatPMSDK.RVelocityListener.#ctor*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener__ctor_System_Int32_" data-uid="FlatPMSDK.RVelocityListener.#ctor(System.Int32)">RVelocityListener(Int32)</h4>
+  <a id="FlatPMSDK_FlatSDKInternal_FTransform__ctor_" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.#ctor*"></a>
+  <h4 id="FlatPMSDK_FlatSDKInternal_FTransform__ctor_Vector4_Vector3_Vector3_" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.#ctor(Vector4,Vector3,Vector3)">FTransform(Vector4, Vector3, Vector3)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public RVelocityListener(int ent)</code></pre>
+    <pre><code class="lang-csharp hljs">public FTransform(Vector4 rot, Vector3 translation, Vector3 scale)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -133,8 +133,18 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">ent</span></td>
+        <td><span class="xref">Vector4</span></td>
+        <td><span class="parametername">rot</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">translation</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">scale</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -143,12 +153,12 @@
   </h3>
   
   
-  <h4 id="FlatPMSDK_RVelocityListener_Instance" data-uid="FlatPMSDK.RVelocityListener.Instance">Instance</h4>
+  <h4 id="FlatPMSDK_FlatSDKInternal_FTransform_Rotation" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.Rotation">Rotation</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static RVelocityListener Instance</code></pre>
+    <pre><code class="lang-csharp hljs">public Vector4 Rotation</code></pre>
   </div>
   <h5 class="fieldValue">Field Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -160,19 +170,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="FlatPMSDK.RVelocityListener.html">RVelocityListener</a></td>
+        <td><span class="xref">Vector4</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   
   
-  <h4 id="FlatPMSDK_RVelocityListener_IsActive" data-uid="FlatPMSDK.RVelocityListener.IsActive">IsActive</h4>
+  <h4 id="FlatPMSDK_FlatSDKInternal_FTransform_Scale3D" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.Scale3D">Scale3D</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public bool IsActive</code></pre>
+    <pre><code class="lang-csharp hljs">public Vector3 Scale3D</code></pre>
   </div>
   <h5 class="fieldValue">Field Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -184,98 +194,21 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="xref">Vector3</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   
   
-  <h4 id="FlatPMSDK_RVelocityListener_timebtw" data-uid="FlatPMSDK.RVelocityListener.timebtw">timebtw</h4>
+  <h4 id="FlatPMSDK_FlatSDKInternal_FTransform_Translation" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.Translation">Translation</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int timebtw</code></pre>
+    <pre><code class="lang-csharp hljs">public Vector3 Translation</code></pre>
   </div>
   <h5 class="fieldValue">Field Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="properties">Properties
-  </h3>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_LastTick_" data-uid="FlatPMSDK.RVelocityListener.LastTick*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_LastTick" data-uid="FlatPMSDK.RVelocityListener.LastTick">LastTick</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public DateTime LastTick { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.DateTime</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_UniqueId_" data-uid="FlatPMSDK.RVelocityListener.UniqueId*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_UniqueId" data-uid="FlatPMSDK.RVelocityListener.UniqueId">UniqueId</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int UniqueId { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_Velocity_" data-uid="FlatPMSDK.RVelocityListener.Velocity*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_Velocity" data-uid="FlatPMSDK.RVelocityListener.Velocity">Velocity</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Vector3 Velocity { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
@@ -294,31 +227,14 @@
   </h3>
   
   
-  <a id="FlatPMSDK_RVelocityListener_AddListener_" data-uid="FlatPMSDK.RVelocityListener.AddListener*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_AddListener_System_Int32_" data-uid="FlatPMSDK.RVelocityListener.AddListener(System.Int32)">AddListener(Int32)</h4>
+  <a id="FlatPMSDK_FlatSDKInternal_FTransform_ToMatrixWithScale_" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale*"></a>
+  <h4 id="FlatPMSDK_FlatSDKInternal_FTransform_ToMatrixWithScale" data-uid="FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale">ToMatrixWithScale()</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static RVelocityListener AddListener(int entity)</code></pre>
+    <pre><code class="lang-csharp hljs">public Matrix ToMatrixWithScale()</code></pre>
   </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">entity</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
@@ -329,41 +245,11 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="FlatPMSDK.RVelocityListener.html">RVelocityListener</a></td>
+        <td><span class="xref">Matrix</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_Start_" data-uid="FlatPMSDK.RVelocityListener.Start*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_Start" data-uid="FlatPMSDK.RVelocityListener.Start">Start()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Start()</code></pre>
-  </div>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_Stop_" data-uid="FlatPMSDK.RVelocityListener.Stop*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_Stop" data-uid="FlatPMSDK.RVelocityListener.Stop">Stop()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Stop()</code></pre>
-  </div>
-  
-  
-  <a id="FlatPMSDK_RVelocityListener_UpdateListener_" data-uid="FlatPMSDK.RVelocityListener.UpdateListener*"></a>
-  <h4 id="FlatPMSDK_RVelocityListener_UpdateListener" data-uid="FlatPMSDK.RVelocityListener.UpdateListener">UpdateListener()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void UpdateListener()</code></pre>
-  </div>
 </article>
           </div>
           

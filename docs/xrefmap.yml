@@ -32,6 +32,19 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDK.GetBoats
   nameWithType: FlatSDK.GetBoats
+- uid: FlatPMSDK.FlatSDK.GetBoneByIndex(FlatPMSDK.FlatSDKInternal.Entity,System.Int32)
+  name: GetBoneByIndex(FlatSDKInternal.Entity, Int32)
+  href: api/FlatPMSDK.FlatSDK.html#FlatPMSDK_FlatSDK_GetBoneByIndex_FlatPMSDK_FlatSDKInternal_Entity_System_Int32_
+  commentId: M:FlatPMSDK.FlatSDK.GetBoneByIndex(FlatPMSDK.FlatSDKInternal.Entity,System.Int32)
+  fullName: FlatPMSDK.FlatSDK.GetBoneByIndex(FlatPMSDK.FlatSDKInternal.Entity, System.Int32)
+  nameWithType: FlatSDK.GetBoneByIndex(FlatSDKInternal.Entity, Int32)
+- uid: FlatPMSDK.FlatSDK.GetBoneByIndex*
+  name: GetBoneByIndex
+  href: api/FlatPMSDK.FlatSDK.html#FlatPMSDK_FlatSDK_GetBoneByIndex_
+  commentId: Overload:FlatPMSDK.FlatSDK.GetBoneByIndex
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDK.GetBoneByIndex
+  nameWithType: FlatSDK.GetBoneByIndex
 - uid: FlatPMSDK.FlatSDK.GetCameraPosition
   name: GetCameraPosition()
   href: api/FlatPMSDK.FlatSDK.html#FlatPMSDK_FlatSDK_GetCameraPosition
@@ -303,6 +316,19 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDK.Overlay.FPS
   nameWithType: FlatSDK.Overlay.FPS
+- uid: FlatPMSDK.FlatSDK.Overlay.Handle
+  name: Handle
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_Handle
+  commentId: P:FlatPMSDK.FlatSDK.Overlay.Handle
+  fullName: FlatPMSDK.FlatSDK.Overlay.Handle
+  nameWithType: FlatSDK.Overlay.Handle
+- uid: FlatPMSDK.FlatSDK.Overlay.Handle*
+  name: Handle
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_Handle_
+  commentId: Overload:FlatPMSDK.FlatSDK.Overlay.Handle
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDK.Overlay.Handle
+  nameWithType: FlatSDK.Overlay.Handle
 - uid: FlatPMSDK.FlatSDK.Overlay.Height
   name: Height
   href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_Height
@@ -329,6 +355,32 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDK.Overlay.Width
   nameWithType: FlatSDK.Overlay.Width
+- uid: FlatPMSDK.FlatSDK.Overlay.X
+  name: X
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_X
+  commentId: P:FlatPMSDK.FlatSDK.Overlay.X
+  fullName: FlatPMSDK.FlatSDK.Overlay.X
+  nameWithType: FlatSDK.Overlay.X
+- uid: FlatPMSDK.FlatSDK.Overlay.X*
+  name: X
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_X_
+  commentId: Overload:FlatPMSDK.FlatSDK.Overlay.X
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDK.Overlay.X
+  nameWithType: FlatSDK.Overlay.X
+- uid: FlatPMSDK.FlatSDK.Overlay.Y
+  name: Y
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_Y
+  commentId: P:FlatPMSDK.FlatSDK.Overlay.Y
+  fullName: FlatPMSDK.FlatSDK.Overlay.Y
+  nameWithType: FlatSDK.Overlay.Y
+- uid: FlatPMSDK.FlatSDK.Overlay.Y*
+  name: Y
+  href: api/FlatPMSDK.FlatSDK.Overlay.html#FlatPMSDK_FlatSDK_Overlay_Y_
+  commentId: Overload:FlatPMSDK.FlatSDK.Overlay.Y
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDK.Overlay.Y
+  nameWithType: FlatSDK.Overlay.Y
 - uid: FlatPMSDK.FlatSDK.SetupGraphics
   name: SetupGraphics
   href: api/FlatPMSDK.FlatSDK.html#FlatPMSDK_FlatSDK_SetupGraphics
@@ -411,6 +463,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.aimFov
   fullName: FlatPMSDK.FlatSDKInternal.aimFov
   nameWithType: FlatSDKInternal.aimFov
+- uid: FlatPMSDK.FlatSDKInternal.aimsmooth
+  name: aimsmooth
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_aimsmooth
+  commentId: F:FlatPMSDK.FlatSDKInternal.aimsmooth
+  fullName: FlatPMSDK.FlatSDKInternal.aimsmooth
+  nameWithType: FlatSDKInternal.aimsmooth
 - uid: FlatPMSDK.FlatSDKInternal.BoneInfo
   name: FlatSDKInternal.BoneInfo
   href: api/FlatPMSDK.FlatSDKInternal.BoneInfo.html
@@ -423,6 +481,42 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.BoneInfo.position
   fullName: FlatPMSDK.FlatSDKInternal.BoneInfo.position
   nameWithType: FlatSDKInternal.BoneInfo.position
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery
+  name: FlatSDKInternal.BoneQuery
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.BoneQuery
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery
+  nameWithType: FlatSDKInternal.BoneQuery
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery.ComponentToWorld
+  name: ComponentToWorld
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html#FlatPMSDK_FlatSDKInternal_BoneQuery_ComponentToWorld
+  commentId: F:FlatPMSDK.FlatSDKInternal.BoneQuery.ComponentToWorld
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery.ComponentToWorld
+  nameWithType: FlatSDKInternal.BoneQuery.ComponentToWorld
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery.fTransform
+  name: fTransform
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html#FlatPMSDK_FlatSDKInternal_BoneQuery_fTransform
+  commentId: F:FlatPMSDK.FlatSDKInternal.BoneQuery.fTransform
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery.fTransform
+  nameWithType: FlatSDKInternal.BoneQuery.fTransform
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery.id
+  name: id
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html#FlatPMSDK_FlatSDKInternal_BoneQuery_id
+  commentId: F:FlatPMSDK.FlatSDKInternal.BoneQuery.id
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery.id
+  nameWithType: FlatSDKInternal.BoneQuery.id
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery.position
+  name: position
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html#FlatPMSDK_FlatSDKInternal_BoneQuery_position
+  commentId: F:FlatPMSDK.FlatSDKInternal.BoneQuery.position
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery.position
+  nameWithType: FlatSDKInternal.BoneQuery.position
+- uid: FlatPMSDK.FlatSDKInternal.BoneQuery.visible
+  name: visible
+  href: api/FlatPMSDK.FlatSDKInternal.BoneQuery.html#FlatPMSDK_FlatSDKInternal_BoneQuery_visible
+  commentId: F:FlatPMSDK.FlatSDKInternal.BoneQuery.visible
+  fullName: FlatPMSDK.FlatSDKInternal.BoneQuery.visible
+  nameWithType: FlatSDKInternal.BoneQuery.visible
 - uid: FlatPMSDK.FlatSDKInternal.DebugMode
   name: FlatSDKInternal.DebugMode
   href: api/FlatPMSDK.FlatSDKInternal.DebugMode.html
@@ -478,6 +572,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.EItem.id
   fullName: FlatPMSDK.FlatSDKInternal.EItem.id
   nameWithType: FlatSDKInternal.EItem.id
+- uid: FlatPMSDK.FlatSDKInternal.EItem.priority
+  name: priority
+  href: api/FlatPMSDK.FlatSDKInternal.EItem.html#FlatPMSDK_FlatSDKInternal_EItem_priority
+  commentId: F:FlatPMSDK.FlatSDKInternal.EItem.priority
+  fullName: FlatPMSDK.FlatSDKInternal.EItem.priority
+  nameWithType: FlatSDKInternal.EItem.priority
 - uid: FlatPMSDK.FlatSDKInternal.entities
   name: entities
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_entities
@@ -508,6 +608,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.Entity.boneInfos
   fullName: FlatPMSDK.FlatSDKInternal.Entity.boneInfos
   nameWithType: FlatSDKInternal.Entity.boneInfos
+- uid: FlatPMSDK.FlatSDKInternal.Entity.boneInfos2
+  name: boneInfos2
+  href: api/FlatPMSDK.FlatSDKInternal.Entity.html#FlatPMSDK_FlatSDKInternal_Entity_boneInfos2
+  commentId: F:FlatPMSDK.FlatSDKInternal.Entity.boneInfos2
+  fullName: FlatPMSDK.FlatSDKInternal.Entity.boneInfos2
+  nameWithType: FlatSDKInternal.Entity.boneInfos2
 - uid: FlatPMSDK.FlatSDKInternal.Entity.cameraPosition
   name: cameraPosition
   href: api/FlatPMSDK.FlatSDKInternal.Entity.html#FlatPMSDK_FlatSDKInternal_Entity_cameraPosition
@@ -532,6 +638,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.Entity.direction_axis
   fullName: FlatPMSDK.FlatSDKInternal.Entity.direction_axis
   nameWithType: FlatSDKInternal.Entity.direction_axis
+- uid: FlatPMSDK.FlatSDKInternal.Entity.dscale
+  name: dscale
+  href: api/FlatPMSDK.FlatSDKInternal.Entity.html#FlatPMSDK_FlatSDKInternal_Entity_dscale
+  commentId: F:FlatPMSDK.FlatSDKInternal.Entity.dscale
+  fullName: FlatPMSDK.FlatSDKInternal.Entity.dscale
+  nameWithType: FlatSDKInternal.Entity.dscale
 - uid: FlatPMSDK.FlatSDKInternal.Entity.eItem
   name: eItem
   href: api/FlatPMSDK.FlatSDKInternal.Entity.html#FlatPMSDK_FlatSDKInternal_Entity_eItem
@@ -628,6 +740,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.EntityInfo.isLoc
   fullName: FlatPMSDK.FlatSDKInternal.EntityInfo.isLoc
   nameWithType: FlatSDKInternal.EntityInfo.isLoc
+- uid: FlatPMSDK.FlatSDKInternal.EntityInfo.nickname
+  name: nickname
+  href: api/FlatPMSDK.FlatSDKInternal.EntityInfo.html#FlatPMSDK_FlatSDKInternal_EntityInfo_nickname
+  commentId: F:FlatPMSDK.FlatSDKInternal.EntityInfo.nickname
+  fullName: FlatPMSDK.FlatSDKInternal.EntityInfo.nickname
+  nameWithType: FlatSDKInternal.EntityInfo.nickname
 - uid: FlatPMSDK.FlatSDKInternal.EntityInfo.Pitch
   name: Pitch
   href: api/FlatPMSDK.FlatSDKInternal.EntityInfo.html#FlatPMSDK_FlatSDKInternal_EntityInfo_Pitch
@@ -652,30 +770,201 @@ references:
   commentId: T:FlatPMSDK.FlatSDKInternal.EntityState
   fullName: FlatPMSDK.FlatSDKInternal.EntityState
   nameWithType: FlatSDKInternal.EntityState
-- uid: FlatPMSDK.FlatSDKInternal.EntityState.Crouch
-  name: Crouch
-  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_Crouch
-  commentId: F:FlatPMSDK.FlatSDKInternal.EntityState.Crouch
-  fullName: FlatPMSDK.FlatSDKInternal.EntityState.Crouch
-  nameWithType: FlatSDKInternal.EntityState.Crouch
-- uid: FlatPMSDK.FlatSDKInternal.EntityState.Running
-  name: Running
-  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_Running
-  commentId: F:FlatPMSDK.FlatSDKInternal.EntityState.Running
-  fullName: FlatPMSDK.FlatSDKInternal.EntityState.Running
-  nameWithType: FlatSDKInternal.EntityState.Running
-- uid: FlatPMSDK.FlatSDKInternal.EntityState.Snake
-  name: Snake
-  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_Snake
-  commentId: F:FlatPMSDK.FlatSDKInternal.EntityState.Snake
-  fullName: FlatPMSDK.FlatSDKInternal.EntityState.Snake
-  nameWithType: FlatSDKInternal.EntityState.Snake
-- uid: FlatPMSDK.FlatSDKInternal.EntityState.Stand
-  name: Stand
-  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_Stand
-  commentId: F:FlatPMSDK.FlatSDKInternal.EntityState.Stand
-  fullName: FlatPMSDK.FlatSDKInternal.EntityState.Stand
-  nameWithType: FlatSDKInternal.EntityState.Stand
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.#ctor(System.Int32)
+  name: EntityState(Int32)
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState__ctor_System_Int32_
+  commentId: M:FlatPMSDK.FlatSDKInternal.EntityState.#ctor(System.Int32)
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.EntityState(System.Int32)
+  nameWithType: FlatSDKInternal.EntityState.EntityState(Int32)
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.#ctor*
+  name: EntityState
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState__ctor_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.#ctor
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.EntityState
+  nameWithType: FlatSDKInternal.EntityState.EntityState
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isClimb
+  name: isClimb
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isClimb
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isClimb
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isClimb
+  nameWithType: FlatSDKInternal.EntityState.isClimb
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isClimb*
+  name: isClimb
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isClimb_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isClimb
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isClimb
+  nameWithType: FlatSDKInternal.EntityState.isClimb
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isCrouch
+  name: isCrouch
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isCrouch
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isCrouch
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isCrouch
+  nameWithType: FlatSDKInternal.EntityState.isCrouch
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isCrouch*
+  name: isCrouch
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isCrouch_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isCrouch
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isCrouch
+  nameWithType: FlatSDKInternal.EntityState.isCrouch
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isJumping
+  name: isJumping
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isJumping
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isJumping
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isJumping
+  nameWithType: FlatSDKInternal.EntityState.isJumping
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isJumping*
+  name: isJumping
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isJumping_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isJumping
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isJumping
+  nameWithType: FlatSDKInternal.EntityState.isJumping
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isKnock
+  name: isKnock
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isKnock
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isKnock
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isKnock
+  nameWithType: FlatSDKInternal.EntityState.isKnock
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isKnock*
+  name: isKnock
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isKnock_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isKnock
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isKnock
+  nameWithType: FlatSDKInternal.EntityState.isKnock
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isPunch
+  name: isPunch
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isPunch
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isPunch
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isPunch
+  nameWithType: FlatSDKInternal.EntityState.isPunch
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isPunch*
+  name: isPunch
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isPunch_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isPunch
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isPunch
+  nameWithType: FlatSDKInternal.EntityState.isPunch
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting
+  name: isResurrecting
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isResurrecting
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting
+  nameWithType: FlatSDKInternal.EntityState.isResurrecting
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting*
+  name: isResurrecting
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isResurrecting_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isResurrecting
+  nameWithType: FlatSDKInternal.EntityState.isResurrecting
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isRunning
+  name: isRunning
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isRunning
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isRunning
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isRunning
+  nameWithType: FlatSDKInternal.EntityState.isRunning
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isRunning*
+  name: isRunning
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isRunning_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isRunning
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isRunning
+  nameWithType: FlatSDKInternal.EntityState.isRunning
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isShoting
+  name: isShoting
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isShoting
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isShoting
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isShoting
+  nameWithType: FlatSDKInternal.EntityState.isShoting
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isShoting*
+  name: isShoting
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isShoting_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isShoting
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isShoting
+  nameWithType: FlatSDKInternal.EntityState.isShoting
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isSnake
+  name: isSnake
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isSnake
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isSnake
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isSnake
+  nameWithType: FlatSDKInternal.EntityState.isSnake
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isSnake*
+  name: isSnake
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isSnake_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isSnake
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isSnake
+  nameWithType: FlatSDKInternal.EntityState.isSnake
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isStant
+  name: isStant
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isStant
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isStant
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isStant
+  nameWithType: FlatSDKInternal.EntityState.isStant
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isStant*
+  name: isStant
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isStant_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isStant
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isStant
+  nameWithType: FlatSDKInternal.EntityState.isStant
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isSwimming
+  name: isSwimming
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isSwimming
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isSwimming
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isSwimming
+  nameWithType: FlatSDKInternal.EntityState.isSwimming
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isSwimming*
+  name: isSwimming
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isSwimming_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isSwimming
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isSwimming
+  nameWithType: FlatSDKInternal.EntityState.isSwimming
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isTaking
+  name: isTaking
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isTaking
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isTaking
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isTaking
+  nameWithType: FlatSDKInternal.EntityState.isTaking
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isTaking*
+  name: isTaking
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isTaking_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isTaking
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isTaking
+  nameWithType: FlatSDKInternal.EntityState.isTaking
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isThrowing
+  name: isThrowing
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isThrowing
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isThrowing
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isThrowing
+  nameWithType: FlatSDKInternal.EntityState.isThrowing
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isThrowing*
+  name: isThrowing
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isThrowing_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isThrowing
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isThrowing
+  nameWithType: FlatSDKInternal.EntityState.isThrowing
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isWalk
+  name: isWalk
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isWalk
+  commentId: P:FlatPMSDK.FlatSDKInternal.EntityState.isWalk
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isWalk
+  nameWithType: FlatSDKInternal.EntityState.isWalk
+- uid: FlatPMSDK.FlatSDKInternal.EntityState.isWalk*
+  name: isWalk
+  href: api/FlatPMSDK.FlatSDKInternal.EntityState.html#FlatPMSDK_FlatSDKInternal_EntityState_isWalk_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.EntityState.isWalk
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.EntityState.isWalk
+  nameWithType: FlatSDKInternal.EntityState.isWalk
 - uid: FlatPMSDK.FlatSDKInternal.EntityType
   name: FlatSDKInternal.EntityType
   href: api/FlatPMSDK.FlatSDKInternal.EntityType.html
@@ -736,6 +1025,56 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.folderonoff
   fullName: FlatPMSDK.FlatSDKInternal.folderonoff
   nameWithType: FlatSDKInternal.folderonoff
+- uid: FlatPMSDK.FlatSDKInternal.FTransform
+  name: FlatSDKInternal.FTransform
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.FTransform
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform
+  nameWithType: FlatSDKInternal.FTransform
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.#ctor(Vector4,Vector3,Vector3)
+  name: FTransform(Vector4, Vector3, Vector3)
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform__ctor_Vector4_Vector3_Vector3_
+  commentId: M:FlatPMSDK.FlatSDKInternal.FTransform.#ctor(Vector4,Vector3,Vector3)
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.FTransform(Vector4, Vector3, Vector3)
+  nameWithType: FlatSDKInternal.FTransform.FTransform(Vector4, Vector3, Vector3)
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.#ctor*
+  name: FTransform
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform__ctor_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.FTransform.#ctor
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.FTransform
+  nameWithType: FlatSDKInternal.FTransform.FTransform
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.Rotation
+  name: Rotation
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform_Rotation
+  commentId: F:FlatPMSDK.FlatSDKInternal.FTransform.Rotation
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.Rotation
+  nameWithType: FlatSDKInternal.FTransform.Rotation
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.Scale3D
+  name: Scale3D
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform_Scale3D
+  commentId: F:FlatPMSDK.FlatSDKInternal.FTransform.Scale3D
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.Scale3D
+  nameWithType: FlatSDKInternal.FTransform.Scale3D
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale
+  name: ToMatrixWithScale()
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform_ToMatrixWithScale
+  commentId: M:FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale()
+  nameWithType: FlatSDKInternal.FTransform.ToMatrixWithScale()
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale*
+  name: ToMatrixWithScale
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform_ToMatrixWithScale_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.ToMatrixWithScale
+  nameWithType: FlatSDKInternal.FTransform.ToMatrixWithScale
+- uid: FlatPMSDK.FlatSDKInternal.FTransform.Translation
+  name: Translation
+  href: api/FlatPMSDK.FlatSDKInternal.FTransform.html#FlatPMSDK_FlatSDKInternal_FTransform_Translation
+  commentId: F:FlatPMSDK.FlatSDKInternal.FTransform.Translation
+  fullName: FlatPMSDK.FlatSDKInternal.FTransform.Translation
+  nameWithType: FlatSDKInternal.FTransform.Translation
 - uid: FlatPMSDK.FlatSDKInternal.GetEntities
   name: GetEntities()
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_GetEntities
@@ -749,6 +1088,18 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDKInternal.GetEntities
   nameWithType: FlatSDKInternal.GetEntities
+- uid: FlatPMSDK.FlatSDKInternal.GetLastError
+  name: GetLastError()
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_GetLastError
+  commentId: M:FlatPMSDK.FlatSDKInternal.GetLastError
+  fullName: FlatPMSDK.FlatSDKInternal.GetLastError()
+  nameWithType: FlatSDKInternal.GetLastError()
+- uid: FlatPMSDK.FlatSDKInternal.GetLastError*
+  name: GetLastError
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_GetLastError_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.GetLastError
+  fullName: FlatPMSDK.FlatSDKInternal.GetLastError
+  nameWithType: FlatSDKInternal.GetLastError
 - uid: FlatPMSDK.FlatSDKInternal.GetLocalPlayer
   name: GetLocalPlayer()
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_GetLocalPlayer
@@ -775,6 +1126,12 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDKInternal.GetMatrix
   nameWithType: FlatSDKInternal.GetMatrix
+- uid: FlatPMSDK.FlatSDKInternal.hAndroidEMUWND
+  name: hAndroidEMUWND
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_hAndroidEMUWND
+  commentId: F:FlatPMSDK.FlatSDKInternal.hAndroidEMUWND
+  fullName: FlatPMSDK.FlatSDKInternal.hAndroidEMUWND
+  nameWithType: FlatSDKInternal.hAndroidEMUWND
 - uid: FlatPMSDK.FlatSDKInternal.IRenderer
   name: FlatSDKInternal.IRenderer
   href: api/FlatPMSDK.FlatSDKInternal.IRenderer.html
@@ -805,6 +1162,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.IRenderer._cyan
   fullName: FlatPMSDK.FlatSDKInternal.IRenderer._cyan
   nameWithType: FlatSDKInternal.IRenderer._cyan
+- uid: FlatPMSDK.FlatSDKInternal.IRenderer._fcustom
+  name: _fcustom
+  href: api/FlatPMSDK.FlatSDKInternal.IRenderer.html#FlatPMSDK_FlatSDKInternal_IRenderer__fcustom
+  commentId: F:FlatPMSDK.FlatSDKInternal.IRenderer._fcustom
+  fullName: FlatPMSDK.FlatSDKInternal.IRenderer._fcustom
+  nameWithType: FlatSDKInternal.IRenderer._fcustom
 - uid: FlatPMSDK.FlatSDKInternal.IRenderer._font
   name: _font
   href: api/FlatPMSDK.FlatSDKInternal.IRenderer.html#FlatPMSDK_FlatSDKInternal_IRenderer__font
@@ -835,6 +1198,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.IRenderer._grayOpaq
   fullName: FlatPMSDK.FlatSDKInternal.IRenderer._grayOpaq
   nameWithType: FlatSDKInternal.IRenderer._grayOpaq
+- uid: FlatPMSDK.FlatSDKInternal.IRenderer._grayOpaq2
+  name: _grayOpaq2
+  href: api/FlatPMSDK.FlatSDKInternal.IRenderer.html#FlatPMSDK_FlatSDKInternal_IRenderer__grayOpaq2
+  commentId: F:FlatPMSDK.FlatSDKInternal.IRenderer._grayOpaq2
+  fullName: FlatPMSDK.FlatSDKInternal.IRenderer._grayOpaq2
+  nameWithType: FlatSDKInternal.IRenderer._grayOpaq2
 - uid: FlatPMSDK.FlatSDKInternal.IRenderer._green
   name: _green
   href: api/FlatPMSDK.FlatSDKInternal.IRenderer.html#FlatPMSDK_FlatSDKInternal_IRenderer__green
@@ -883,6 +1252,37 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.IRenderer._yellow
   fullName: FlatPMSDK.FlatSDKInternal.IRenderer._yellow
   nameWithType: FlatSDKInternal.IRenderer._yellow
+- uid: FlatPMSDK.FlatSDKInternal.ItemPrio
+  name: FlatSDKInternal.ItemPrio
+  href: api/FlatPMSDK.FlatSDKInternal.ItemPrio.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.ItemPrio
+  fullName: FlatPMSDK.FlatSDKInternal.ItemPrio
+  nameWithType: FlatSDKInternal.ItemPrio
+- uid: FlatPMSDK.FlatSDKInternal.ItemPrio.#ctor(System.String,System.Int32)
+  name: ItemPrio(String, Int32)
+  href: api/FlatPMSDK.FlatSDKInternal.ItemPrio.html#FlatPMSDK_FlatSDKInternal_ItemPrio__ctor_System_String_System_Int32_
+  commentId: M:FlatPMSDK.FlatSDKInternal.ItemPrio.#ctor(System.String,System.Int32)
+  fullName: FlatPMSDK.FlatSDKInternal.ItemPrio.ItemPrio(System.String, System.Int32)
+  nameWithType: FlatSDKInternal.ItemPrio.ItemPrio(String, Int32)
+- uid: FlatPMSDK.FlatSDKInternal.ItemPrio.#ctor*
+  name: ItemPrio
+  href: api/FlatPMSDK.FlatSDKInternal.ItemPrio.html#FlatPMSDK_FlatSDKInternal_ItemPrio__ctor_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.ItemPrio.#ctor
+  isSpec: "True"
+  fullName: FlatPMSDK.FlatSDKInternal.ItemPrio.ItemPrio
+  nameWithType: FlatSDKInternal.ItemPrio.ItemPrio
+- uid: FlatPMSDK.FlatSDKInternal.ItemPrio.name
+  name: name
+  href: api/FlatPMSDK.FlatSDKInternal.ItemPrio.html#FlatPMSDK_FlatSDKInternal_ItemPrio_name
+  commentId: F:FlatPMSDK.FlatSDKInternal.ItemPrio.name
+  fullName: FlatPMSDK.FlatSDKInternal.ItemPrio.name
+  nameWithType: FlatSDKInternal.ItemPrio.name
+- uid: FlatPMSDK.FlatSDKInternal.ItemPrio.prio
+  name: prio
+  href: api/FlatPMSDK.FlatSDKInternal.ItemPrio.html#FlatPMSDK_FlatSDKInternal_ItemPrio_prio
+  commentId: F:FlatPMSDK.FlatSDKInternal.ItemPrio.prio
+  fullName: FlatPMSDK.FlatSDKInternal.ItemPrio.prio
+  nameWithType: FlatSDKInternal.ItemPrio.prio
 - uid: FlatPMSDK.FlatSDKInternal.loadbtn
   name: loadbtn
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_loadbtn
@@ -901,6 +1301,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.localplayerlock
   fullName: FlatPMSDK.FlatSDKInternal.localplayerlock
   nameWithType: FlatSDKInternal.localplayerlock
+- uid: FlatPMSDK.FlatSDKInternal.locktypee
+  name: locktypee
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_locktypee
+  commentId: F:FlatPMSDK.FlatSDKInternal.locktypee
+  fullName: FlatPMSDK.FlatSDKInternal.locktypee
+  nameWithType: FlatSDKInternal.locktypee
 - uid: FlatPMSDK.FlatSDKInternal.m_Pid
   name: m_Pid
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_m_Pid
@@ -950,6 +1356,57 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.onoff
   fullName: FlatPMSDK.FlatSDKInternal.onoff
   nameWithType: FlatSDKInternal.onoff
+- uid: FlatPMSDK.FlatSDKInternal.PostMessage(System.IntPtr,System.UInt32,System.Int32,System.Int32)
+  name: PostMessage(IntPtr, UInt32, Int32, Int32)
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_PostMessage_System_IntPtr_System_UInt32_System_Int32_System_Int32_
+  commentId: M:FlatPMSDK.FlatSDKInternal.PostMessage(System.IntPtr,System.UInt32,System.Int32,System.Int32)
+  fullName: FlatPMSDK.FlatSDKInternal.PostMessage(System.IntPtr, System.UInt32, System.Int32, System.Int32)
+  nameWithType: FlatSDKInternal.PostMessage(IntPtr, UInt32, Int32, Int32)
+- uid: FlatPMSDK.FlatSDKInternal.PostMessage*
+  name: PostMessage
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_PostMessage_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.PostMessage
+  fullName: FlatPMSDK.FlatSDKInternal.PostMessage
+  nameWithType: FlatSDKInternal.PostMessage
+- uid: FlatPMSDK.FlatSDKInternal.ReadFloat
+  name: ReadFloat
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_ReadFloat
+  commentId: F:FlatPMSDK.FlatSDKInternal.ReadFloat
+  fullName: FlatPMSDK.FlatSDKInternal.ReadFloat
+  nameWithType: FlatSDKInternal.ReadFloat
+- uid: FlatPMSDK.FlatSDKInternal.ReadInt
+  name: ReadInt
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_ReadInt
+  commentId: F:FlatPMSDK.FlatSDKInternal.ReadInt
+  fullName: FlatPMSDK.FlatSDKInternal.ReadInt
+  nameWithType: FlatSDKInternal.ReadInt
+- uid: FlatPMSDK.FlatSDKInternal.ReadVector3
+  name: ReadVector3
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_ReadVector3
+  commentId: F:FlatPMSDK.FlatSDKInternal.ReadVector3
+  fullName: FlatPMSDK.FlatSDKInternal.ReadVector3
+  nameWithType: FlatSDKInternal.ReadVector3
+- uid: FlatPMSDK.FlatSDKInternal.RVMObjectdFloat
+  name: FlatSDKInternal.RVMObjectdFloat
+  href: api/FlatPMSDK.FlatSDKInternal.RVMObjectdFloat.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.RVMObjectdFloat
+  fullName: FlatPMSDK.FlatSDKInternal.RVMObjectdFloat
+  nameWithType: FlatSDKInternal.RVMObjectdFloat
+- uid: FlatPMSDK.FlatSDKInternal.RVMObjectdInt
+  name: FlatSDKInternal.RVMObjectdInt
+  href: api/FlatPMSDK.FlatSDKInternal.RVMObjectdInt.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.RVMObjectdInt
+  fullName: FlatPMSDK.FlatSDKInternal.RVMObjectdInt
+  nameWithType: FlatSDKInternal.RVMObjectdInt
+- uid: FlatPMSDK.FlatSDKInternal.RVMObjectdVEC`1
+  name: FlatSDKInternal.RVMObjectdVEC<T>
+  href: api/FlatPMSDK.FlatSDKInternal.RVMObjectdVEC-1.html
+  commentId: T:FlatPMSDK.FlatSDKInternal.RVMObjectdVEC`1
+  name.vb: FlatSDKInternal.RVMObjectdVEC(Of T)
+  fullName: FlatPMSDK.FlatSDKInternal.RVMObjectdVEC<T>
+  fullName.vb: FlatPMSDK.FlatSDKInternal.RVMObjectdVEC(Of T)
+  nameWithType: FlatSDKInternal.RVMObjectdVEC<T>
+  nameWithType.vb: FlatSDKInternal.RVMObjectdVEC(Of T)
 - uid: FlatPMSDK.FlatSDKInternal.savebtn
   name: savebtn
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_savebtn
@@ -962,6 +1419,18 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.sdk_version
   fullName: FlatPMSDK.FlatSDKInternal.sdk_version
   nameWithType: FlatSDKInternal.sdk_version
+- uid: FlatPMSDK.FlatSDKInternal.SendMessage(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)
+  name: SendMessage(IntPtr, Int32, IntPtr, IntPtr)
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SendMessage_System_IntPtr_System_Int32_System_IntPtr_System_IntPtr_
+  commentId: M:FlatPMSDK.FlatSDKInternal.SendMessage(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)
+  fullName: FlatPMSDK.FlatSDKInternal.SendMessage(System.IntPtr, System.Int32, System.IntPtr, System.IntPtr)
+  nameWithType: FlatSDKInternal.SendMessage(IntPtr, Int32, IntPtr, IntPtr)
+- uid: FlatPMSDK.FlatSDKInternal.SendMessage*
+  name: SendMessage
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SendMessage_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.SendMessage
+  fullName: FlatPMSDK.FlatSDKInternal.SendMessage
+  nameWithType: FlatSDKInternal.SendMessage
 - uid: FlatPMSDK.FlatSDKInternal.SetAngle(FlatPMSDK.FlatSDKInternal.Entity,Vector2)
   name: SetAngle(FlatSDKInternal.Entity, Vector2)
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SetAngle_FlatPMSDK_FlatSDKInternal_Entity_Vector2_
@@ -975,6 +1444,18 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDKInternal.SetAngle
   nameWithType: FlatSDKInternal.SetAngle
+- uid: FlatPMSDK.FlatSDKInternal.SetCursorPos(System.Int32,System.Int32)
+  name: SetCursorPos(Int32, Int32)
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SetCursorPos_System_Int32_System_Int32_
+  commentId: M:FlatPMSDK.FlatSDKInternal.SetCursorPos(System.Int32,System.Int32)
+  fullName: FlatPMSDK.FlatSDKInternal.SetCursorPos(System.Int32, System.Int32)
+  nameWithType: FlatSDKInternal.SetCursorPos(Int32, Int32)
+- uid: FlatPMSDK.FlatSDKInternal.SetCursorPos*
+  name: SetCursorPos
+  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SetCursorPos_
+  commentId: Overload:FlatPMSDK.FlatSDKInternal.SetCursorPos
+  fullName: FlatPMSDK.FlatSDKInternal.SetCursorPos
+  nameWithType: FlatSDKInternal.SetCursorPos
 - uid: FlatPMSDK.FlatSDKInternal.SetEntities(System.Action)
   name: SetEntities(Action)
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_SetEntities_System_Action_
@@ -1014,19 +1495,6 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.FlatSDKInternal.SetMatrix
   nameWithType: FlatSDKInternal.SetMatrix
-- uid: FlatPMSDK.FlatSDKInternal.VM(System.IntPtr,System.Object)
-  name: VM(IntPtr, Object)
-  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_VM_System_IntPtr_System_Object_
-  commentId: M:FlatPMSDK.FlatSDKInternal.VM(System.IntPtr,System.Object)
-  fullName: FlatPMSDK.FlatSDKInternal.VM(System.IntPtr, System.Object)
-  nameWithType: FlatSDKInternal.VM(IntPtr, Object)
-- uid: FlatPMSDK.FlatSDKInternal.VM*
-  name: VM
-  href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_VM_
-  commentId: Overload:FlatPMSDK.FlatSDKInternal.VM
-  isSpec: "True"
-  fullName: FlatPMSDK.FlatSDKInternal.VM
-  nameWithType: FlatSDKInternal.VM
 - uid: FlatPMSDK.FlatSDKInternal.vMatrix
   name: vMatrix
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_vMatrix
@@ -1063,6 +1531,12 @@ references:
   commentId: F:FlatPMSDK.FlatSDKInternal.WeaponInfo.vBulletPos
   fullName: FlatPMSDK.FlatSDKInternal.WeaponInfo.vBulletPos
   nameWithType: FlatSDKInternal.WeaponInfo.vBulletPos
+- uid: FlatPMSDK.FlatSDKInternal.WeaponInfo.wmesh
+  name: wmesh
+  href: api/FlatPMSDK.FlatSDKInternal.WeaponInfo.html#FlatPMSDK_FlatSDKInternal_WeaponInfo_wmesh
+  commentId: F:FlatPMSDK.FlatSDKInternal.WeaponInfo.wmesh
+  fullName: FlatPMSDK.FlatSDKInternal.WeaponInfo.wmesh
+  nameWithType: FlatSDKInternal.WeaponInfo.wmesh
 - uid: FlatPMSDK.FlatSDKInternal.WriteMemory
   name: WriteMemory
   href: api/FlatPMSDK.FlatSDKInternal.html#FlatPMSDK_FlatSDKInternal_WriteMemory
@@ -1404,6 +1878,70 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.PluginInfo.version
   nameWithType: PluginInfo.version
+- uid: FlatPMSDK.r3dRender
+  name: r3dRender
+  href: api/FlatPMSDK.r3dRender.html
+  commentId: T:FlatPMSDK.r3dRender
+  fullName: FlatPMSDK.r3dRender
+  nameWithType: r3dRender
+- uid: FlatPMSDK.r3dRender.CLoadImage(Graphics,System.Byte[])
+  name: CLoadImage(Graphics, Byte[])
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CLoadImage_Graphics_System_Byte___
+  commentId: M:FlatPMSDK.r3dRender.CLoadImage(Graphics,System.Byte[])
+  name.vb: CLoadImage(Graphics, Byte())
+  fullName: FlatPMSDK.r3dRender.CLoadImage(Graphics, System.Byte[])
+  fullName.vb: FlatPMSDK.r3dRender.CLoadImage(Graphics, System.Byte())
+  nameWithType: r3dRender.CLoadImage(Graphics, Byte[])
+  nameWithType.vb: r3dRender.CLoadImage(Graphics, Byte())
+- uid: FlatPMSDK.r3dRender.CLoadImage*
+  name: CLoadImage
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CLoadImage_
+  commentId: Overload:FlatPMSDK.r3dRender.CLoadImage
+  isSpec: "True"
+  fullName: FlatPMSDK.r3dRender.CLoadImage
+  nameWithType: r3dRender.CLoadImage
+- uid: FlatPMSDK.r3dRender.CreateBitmap(Graphics,System.Byte[])
+  name: CreateBitmap(Graphics, Byte[])
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CreateBitmap_Graphics_System_Byte___
+  commentId: M:FlatPMSDK.r3dRender.CreateBitmap(Graphics,System.Byte[])
+  name.vb: CreateBitmap(Graphics, Byte())
+  fullName: FlatPMSDK.r3dRender.CreateBitmap(Graphics, System.Byte[])
+  fullName.vb: FlatPMSDK.r3dRender.CreateBitmap(Graphics, System.Byte())
+  nameWithType: r3dRender.CreateBitmap(Graphics, Byte[])
+  nameWithType.vb: r3dRender.CreateBitmap(Graphics, Byte())
+- uid: FlatPMSDK.r3dRender.CreateBitmap*
+  name: CreateBitmap
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CreateBitmap_
+  commentId: Overload:FlatPMSDK.r3dRender.CreateBitmap
+  isSpec: "True"
+  fullName: FlatPMSDK.r3dRender.CreateBitmap
+  nameWithType: r3dRender.CreateBitmap
+- uid: FlatPMSDK.r3dRender.CreateFont(Graphics,SharpDX.DirectWrite.FontCollection,System.String,System.Single,System.Boolean,System.Boolean,System.Boolean)
+  name: CreateFont(Graphics, SharpDX.DirectWrite.FontCollection, String, Single, Boolean, Boolean, Boolean)
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CreateFont_Graphics_SharpDX_DirectWrite_FontCollection_System_String_System_Single_System_Boolean_System_Boolean_System_Boolean_
+  commentId: M:FlatPMSDK.r3dRender.CreateFont(Graphics,SharpDX.DirectWrite.FontCollection,System.String,System.Single,System.Boolean,System.Boolean,System.Boolean)
+  fullName: FlatPMSDK.r3dRender.CreateFont(Graphics, SharpDX.DirectWrite.FontCollection, System.String, System.Single, System.Boolean, System.Boolean, System.Boolean)
+  nameWithType: r3dRender.CreateFont(Graphics, SharpDX.DirectWrite.FontCollection, String, Single, Boolean, Boolean, Boolean)
+- uid: FlatPMSDK.r3dRender.CreateFont*
+  name: CreateFont
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_CreateFont_
+  commentId: Overload:FlatPMSDK.r3dRender.CreateFont
+  isSpec: "True"
+  fullName: FlatPMSDK.r3dRender.CreateFont
+  nameWithType: r3dRender.CreateFont
+- uid: FlatPMSDK.r3dRender.DrawBitmap(Graphics,SharpDX.Direct2D1.Bitmap,SharpDX.Mathematics.Interop.RawRectangleF,System.Single)
+  name: DrawBitmap(Graphics, SharpDX.Direct2D1.Bitmap, SharpDX.Mathematics.Interop.RawRectangleF, Single)
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_DrawBitmap_Graphics_SharpDX_Direct2D1_Bitmap_SharpDX_Mathematics_Interop_RawRectangleF_System_Single_
+  commentId: M:FlatPMSDK.r3dRender.DrawBitmap(Graphics,SharpDX.Direct2D1.Bitmap,SharpDX.Mathematics.Interop.RawRectangleF,System.Single)
+  fullName: FlatPMSDK.r3dRender.DrawBitmap(Graphics, SharpDX.Direct2D1.Bitmap, SharpDX.Mathematics.Interop.RawRectangleF, System.Single)
+  nameWithType: r3dRender.DrawBitmap(Graphics, SharpDX.Direct2D1.Bitmap, SharpDX.Mathematics.Interop.RawRectangleF, Single)
+- uid: FlatPMSDK.r3dRender.DrawBitmap*
+  name: DrawBitmap
+  href: api/FlatPMSDK.r3dRender.html#FlatPMSDK_r3dRender_DrawBitmap_
+  commentId: Overload:FlatPMSDK.r3dRender.DrawBitmap
+  isSpec: "True"
+  fullName: FlatPMSDK.r3dRender.DrawBitmap
+  nameWithType: r3dRender.DrawBitmap
 - uid: FlatPMSDK.RVelocityListener
   name: RVelocityListener
   href: api/FlatPMSDK.RVelocityListener.html
@@ -1588,3 +2126,48 @@ references:
   isSpec: "True"
   fullName: FlatPMSDK.SerializeStatic.Serialize
   nameWithType: SerializeStatic.Serialize
+- uid: FlatPMSDK.Utils
+  name: Utils
+  href: api/FlatPMSDK.Utils.html
+  commentId: T:FlatPMSDK.Utils
+  fullName: FlatPMSDK.Utils
+  nameWithType: Utils
+- uid: FlatPMSDK.Utils.ClampAngles(Vector3)
+  name: ClampAngles(Vector3)
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ClampAngles_Vector3_
+  commentId: M:FlatPMSDK.Utils.ClampAngles(Vector3)
+  fullName: FlatPMSDK.Utils.ClampAngles(Vector3)
+  nameWithType: Utils.ClampAngles(Vector3)
+- uid: FlatPMSDK.Utils.ClampAngles*
+  name: ClampAngles
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ClampAngles_
+  commentId: Overload:FlatPMSDK.Utils.ClampAngles
+  isSpec: "True"
+  fullName: FlatPMSDK.Utils.ClampAngles
+  nameWithType: Utils.ClampAngles
+- uid: FlatPMSDK.Utils.ToVector2(Vector3)
+  name: ToVector2(Vector3)
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ToVector2_Vector3_
+  commentId: M:FlatPMSDK.Utils.ToVector2(Vector3)
+  fullName: FlatPMSDK.Utils.ToVector2(Vector3)
+  nameWithType: Utils.ToVector2(Vector3)
+- uid: FlatPMSDK.Utils.ToVector2*
+  name: ToVector2
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ToVector2_
+  commentId: Overload:FlatPMSDK.Utils.ToVector2
+  isSpec: "True"
+  fullName: FlatPMSDK.Utils.ToVector2
+  nameWithType: Utils.ToVector2
+- uid: FlatPMSDK.Utils.ToVector3(Vector2)
+  name: ToVector3(Vector2)
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ToVector3_Vector2_
+  commentId: M:FlatPMSDK.Utils.ToVector3(Vector2)
+  fullName: FlatPMSDK.Utils.ToVector3(Vector2)
+  nameWithType: Utils.ToVector3(Vector2)
+- uid: FlatPMSDK.Utils.ToVector3*
+  name: ToVector3
+  href: api/FlatPMSDK.Utils.html#FlatPMSDK_Utils_ToVector3_
+  commentId: Overload:FlatPMSDK.Utils.ToVector3
+  isSpec: "True"
+  fullName: FlatPMSDK.Utils.ToVector3
+  nameWithType: Utils.ToVector3

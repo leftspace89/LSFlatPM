@@ -12,7 +12,7 @@
           "hash": "TNJaNSDe7Ks20pVbjaKyLg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDK.Overlay.html",
-          "hash": "klNLhFRJL8GlwhBJiWizig=="
+          "hash": "GzR8/NuZjVk/0EjYDDUvPg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDK.html",
-          "hash": "+s29fKHURG9uxuUGNbLsJQ=="
+          "hash": "A7EOlBZUkQmpmH2rm4xTxQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -48,7 +48,19 @@
           "hash": "PcBOhmogJX0Gt+ovbTQ0pg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.BoneQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.BoneQuery.html",
+          "hash": "d8ysCRDp2MpJsx21axRYCw=="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -60,7 +72,7 @@
           "hash": "s8sBZ676QNzWTSnyCeLP6w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.EItem.html",
-          "hash": "HEGw5WcV1WDLuRp88NKXDw=="
+          "hash": "wZRxPFDR+FmjihhJT3/3FA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.Entity.html",
-          "hash": "5GiptcI/ErpUnXxnsy6YqA=="
+          "hash": "qrl2JKgwXVlYg+5Czzl76w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.EntityInfo.html",
-          "hash": "bZj76PJmhs2L/KvTn/REYA=="
+          "hash": "bpE7v3hZjhSfuxM06yoXow=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.EntityState.html",
-          "hash": "zgYT2PrXs+fhhx3505KZRQ=="
+          "hash": "EpibenR6B3nLqOsW9n9SIg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -120,7 +132,19 @@
           "hash": "sBMyXZXDgJpUxHaj3YT1hQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.FTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.FTransform.html",
+          "hash": "1i6KRSaf94tAzxX8zp3ejQ=="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +153,58 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.IRenderer.html",
-          "hash": "LlHDYwoK5byl2hxx55VFMQ=="
+          "hash": "7wO9q0GqqaU+p4qNnBi5AQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.ItemPrio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.ItemPrio.html",
+          "hash": "CinZD8d7srF0rV0pXqY3vw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdFloat.html",
+          "hash": "JXzCyxKBvXYIyeHluqoqNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdInt.html",
+          "hash": "0k6kJAwBzTYopJfWjf3uLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdVEC-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.FlatSDKInternal.RVMObjectdVEC-1.html",
+          "hash": "AzKHU7SNG2g337WMyb3fbQ=="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -144,7 +216,7 @@
           "hash": "Wu7NnXafDmxQQI4DJZte0g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.WeaponInfo.html",
-          "hash": "pyhtDCblM/WMgWd/Yfdgcg=="
+          "hash": "puShPp+EygBzobEF9Vg7vg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.FlatSDKInternal.html",
-          "hash": "vlRRxbzNUiVZqmH7v+3ysQ=="
+          "hash": "zUN0l30oPaFMTjxJn7GCyg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -180,7 +252,7 @@
           "hash": "6Bzef5C7xE4pEDTRz6SJzw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -192,7 +264,7 @@
           "hash": "lwFdXbBjdhC6zxgbJx+gwg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -204,7 +276,7 @@
           "hash": "DFkg9cxaIOPMz80lVtynbA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -216,7 +288,7 @@
           "hash": "1oxqcOiMmfa0IamYDJ1QkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -228,7 +300,7 @@
           "hash": "RxYjL78Jw1HtwP5wvjGvTA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -240,7 +312,7 @@
           "hash": "RlUJGqHb07xydZnDU2aabA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -252,7 +324,7 @@
           "hash": "3EkEUcbzfXTz08naHAhcvw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -264,7 +336,7 @@
           "hash": "GbnIPo+wAtQ2nFupth1/Gw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -273,10 +345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.RVelocityListener.html",
-          "hash": "xp6OduDung3djTQiu5cC2w=="
+          "hash": "FeEu9bb9TFBGqj3qnLUyQQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -288,7 +360,31 @@
           "hash": "QuiiOvqOgEgrAftyBKABYg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.Utils.html",
+          "hash": "RsWG6RByMWOCnS6gXaOKFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FlatPMSDK.r3dRender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FlatPMSDK.r3dRender.html",
+          "hash": "8Lgb7W4DusmvWrh0UnATjw=="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -297,10 +393,10 @@
       "output": {
         ".html": {
           "relative_path": "api/FlatPMSDK.html",
-          "hash": "8BSgcPECq0M4MpNbbs3Jyg=="
+          "hash": "0u7Wy3wnViaQx7DFadnsnQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -312,7 +408,7 @@
           "hash": "1aGnHgRQT187ugqZluvy5Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -321,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "qxdG3TLYI52MLF9O6fLX0w=="
+          "hash": "/TsoUjcafMFqMZvwJc3OFw=="
         }
       },
       "is_incremental": false,
@@ -385,13 +481,6 @@
         "skipped_file_count": 0
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
@@ -401,8 +490,15 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 25,
-          "skipped_file_count": 25
+          "total_file_count": 33,
+          "skipped_file_count": 8
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
         }
       }
     },
