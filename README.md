@@ -53,7 +53,8 @@ SharpDisasm for core stuff.
 * **Rexy** - *did Plugin Loader classes etc.*
 * **Pikachu7** - *some offsets for core.*
 * **XMaze** - *some offsets for core.*
-
+* **CauS** - *new pointers & offsets for core and his math is saved my time*
+* **Nader11ndeu** - *helped some sdk features*
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
