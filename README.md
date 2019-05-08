@@ -47,7 +47,7 @@ GameOverylay.net for Overlay.
 SharpDisasm for core stuff.
 
 
-## Authors
+## Developers
 
 * **LeftSpace** - *Core & SDK* 
 * **Rexy** - *did Plugin Loader classes etc.*
