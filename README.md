@@ -6,7 +6,9 @@ Developers can use it for making mod (Plugin) for the game.
 ## Getting Started
 
 Look at the produced examples.
+
 Discord Server : https://discord.gg/FEyqYwk
+
 DOCS : https://leftspace89.github.io/LSFlatPM/api/FlatPMSDK.html
 
 ### Prerequisites
