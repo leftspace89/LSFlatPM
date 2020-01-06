@@ -37,11 +37,13 @@
     "White": "Beyaz",
     "Fov": "Açı",
     "Aim Key": "Aim Tuş",
-    "Auto Adjust[LR]": "Oto Aşağı Çekme",
+    "Auto Adjust [LR]": "Oto Aşağı Çekme",
     "Smooth": "Yumuşaklık",
     "Move Prediction": "Hareket Tahmini",
     "Lock Knockdown": "Bayılana kitlen",
     "Axis": "Eksen",
+	"Language": "Dil",
+	"Core": "Çekirdek",
     "ON": "AÇIK",
     "OFF": "KAPALI"
   }
